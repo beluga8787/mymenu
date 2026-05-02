@@ -1,109 +1,110 @@
 export const products = [
     //рыбное:
-    {
-        type: 'riba',
-        name: 'семга-тунец маслянная',
-        image: './riba/semtunmas.jpg'
-    },
+    
     {
         type: 'riba',
         name: 'Шампур',
-        image: './riba/shampur.jpg'
+        image: 'img/shampur.jpg'
     },
     {
         type: 'riba',
         name: 'Мидий',
-        image: './riba/midiy.jpg'
+        image: 'img/midiy.jpg'
     },
     {
         type: 'riba',
         name: 'Креветки чищенные',
-        image: './riba/krevetchish.jpg'
+        image: 'img/krevetchish.jpg'
     },
     {
         type: 'riba',
         name: 'Креветки жаренные',
-        image: './riba/krevetjar.jpg'
+        image: 'img/krevetjar.jpg'
     },
     {
         type: 'riba',
         name: 'Лангустины',
-        image: './riba/langust.jpg'
+        image: 'img/langust.jpg'
     },
     {
         type: 'riba',
         name: 'Осминоги',
-        image: './riba/osminogi.jpg'
+        image: 'img/osminogi.jpg'
     },
 
     //мясное:
     {
         type: 'meat',
         name: 'Перепелка',
-        image: './meats/perepel.jpg'
+        image: 'img/perepel.jpg'
     },
     {
         type: 'meat',
         name: 'Крылышки',
-        image: './meats/krilya.jpg'
+        image: '.img/krilya.jpg'
     },
     {
         type: 'meat',
         name: 'Чипсы - палочки',
-        image: './meats/chips.jpg'
+        image: 'img/chips.jpg'
     },
     {
         type: 'meat',
         name: 'Сердечки',
-        image: './meats/serdech.jpg'
+        image: 'img/serdech.jpg'
     },
     {
         type: 'meat',
         name: 'Венгерские',
-        image: './meats/veng.jpg'
+        image: 'img/veng.jpg'
     },
     {
         type: 'meat',
         name: 'Баварские',
-        image: './meats/bavar.jpg'
+        image: 'img/bavar.jpg'
     },
     {
         type: 'meat',
         name: 'Стейк индейки',
-        image: './meats/steak.jpg'
+        image: 'img/steak.jpg'
     },
 
     //остальное
     {
         type: 'other',
         name: 'Сыр жаренный',
-        image: './other/cheesejar.jpg'
+        image: 'img/cheesejar.jpg'
     },
     {
         type: 'other',
         name: 'Кальмар',
-        image: './other/kalmar.jpg'
+        image: 'img/kalmar.jpg'
     },
     {
         type: 'other',
         name: 'Гренки',
-        image: './other/grenki.jpg'
+        image: 'img/grenki.jpg'
     },
     {
         type: 'other',
         name: 'Деревня',
-        image: './other/derev.jpg'
+        image: 'img/derev.jpg'
     },
     {
         type: 'other',
         name: 'Картошка фри',
-        image: './other/fri.jpg'
+        image: 'img/fri.jpg'
     },
 
     //наборы
     {
         type: 'nabor',
         name: 'Биг сет',
-        image: './nabor/nabor1.jpg'
+        image: 'img/nabor1.jpg'
+    },
+    {
+        type: 'nabor',
+        name: 'Маленький набор',
+        image: 'img/semtunmas.jpg'
     },
 ]
