@@ -55,8 +55,8 @@ a {
     
     max-width: 40vw;
     width: 28vw;
-    background: linear-gradient(hsl(0, 0%, 0%),
-     hsl(29, 100%, 26%));
+    background: linear-gradient(hsl(13, 25%, 14%),
+     hsl(26, 100%, 15%));
     border: hsl(41, 100%,0%) solid 2px;
     padding: 2rem;
     border-radius: 2rem;
